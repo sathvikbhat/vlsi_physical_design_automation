@@ -1,7 +1,8 @@
 # Results for the 's298.bench' netlist
-1. Initial Floorplan
-2. Final Floorplan
-3. Initial Placement
-4. Final Placement
-5. Maze Routing Layer-1
-6. Maze Routing Layer-2
+1. Final Floorplan
+2. Initial Placement
+3. Final Placement
+4. Maze Routing Layer-1
+5. Maze Routing Layer-2
+
+### Note: Initial Floorplan is difficult to extract as 100s of gates are placed one after the other.
