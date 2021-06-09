@@ -2,7 +2,7 @@
 A project to perform the VLSI Physical Design Flow steps of partitioning, floorplan, placement and routing.
 
 ### src
-The *vlsi_design_automation.py* is the src file for the project build on python3.
+The *vlsi_design_automation.py* is the src file for the project built on python3.
 
 ### docs/ 
 The *docs/* directory contains the final project report for the above project.
